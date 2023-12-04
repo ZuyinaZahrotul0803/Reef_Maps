@@ -10,4 +10,5 @@ Aplikasi ini digunakan untuk memberikan informasi mengenai persebaran terumbu ka
 - Coral Reef (NOAA)
 
 # Preview Product
-<img
+![image](https://github.com/ZuyinaZahrotul0803/Reef_Maps/assets/147962170/9f020814-4c1d-4200-ad2a-50455c4bd960)
+
